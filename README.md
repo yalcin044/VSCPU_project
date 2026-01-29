@@ -1,1 +1,1 @@
-# CSE224 Spring VSCPU Project
+# VSCPU Project
